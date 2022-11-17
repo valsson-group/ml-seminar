@@ -19,4 +19,12 @@ As of now we plan on covering the following topics:
 
 Participants are encouraged to suggest and contribute with topics they are interested in.
 
-We plan on starting the seminar series in the early Spring 2023 semester. In the first seminar, Dr. Omar Valsson will give a presentation on AlphaFold and how to use it in practise. The exact schedule for seminar series will be decided later.
+We plan on starting the seminar series in the early Spring 2023 semester. The exact schedule for seminar series will be decided later.
+
+In the first seminar, Dr. Omar Valsson will give a presentation on AlphaFold and how to use it in practise. 
+
+Please get in contact if you have any questions or comments.  
+
+Dr. Omar Valsson [omar.valsson@unt.edu](mailto:omar.valsson@unt.edu) and Ignacio Migliaro [IgnacioMigliaro@my.unt.edu](mailto:IgnacioMigliaro@my.unt.edu)
+
+
