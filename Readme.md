@@ -1,5 +1,3 @@
-### UNT Machine learning in Chemistry and Material Science Seminar
-
 We, Dr. Omar Valsson and PhD candidate Ignacio Migliaro from University of North Texas Chemistry, are going to organize a didactic seminar series where once a month we will meet for around 1.5-2 hours  and share different methodologies in machine learning applied to areas in both chemistry and material science. Our goal is for people to present and teach different ML methods and how they can be implement in these different fields.
 
 Everyone from UNT Chemistry, Physics, Materials Science, and also others at UNT, will be welcome to participate, both undergraduate students and graduate students. 
