@@ -6,4 +6,6 @@ title: UNT Machine learning in Chemistry and Material Science Seminar
 description: 
 
 show_downloads: false
-github.is_project_page: false
+
+github:
+  is_project_page: false
