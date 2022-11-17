@@ -2,8 +2,7 @@ We, Dr. Omar Valsson and PhD candidate Ignacio Migliaro from University of North
 
 Everyone from UNT Chemistry, Physics, Materials Science, and also others at UNT, will be welcome to participate, both undergraduate students and graduate students. 
 
-If you are interested to participate, please sign up and fill the survey at the following link:  
-[https://forms.gle/aWUMXKfpAmqJk9Xj9](https://forms.gle/aWUMXKfpAmqJk9Xj9)
+If you are interested to participate, please contact Dr. Omar Valsson [omar.valsson@unt.edu](mailto:omar.valsson@unt.edu) and Ignacio Migliaro [IgnacioMigliaro@my.unt.edu](mailto:IgnacioMigliaro@my.unt.edu). 
 
 The planned format of the seminars is that we will start with around 45-60 minutes of presenting background and theory and sharing articles, followed by around 45-60 minutes of immersive learning where the presenter will teach the audience how to implement the presented ML methods with hands-on tutorials. 
 
