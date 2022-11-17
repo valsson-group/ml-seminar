@@ -2,10 +2,10 @@
 
 We, Dr. Omar Valsson and PhD candidate Ignacio Migliaro from UNT Chemistry, are going to organize a didactic seminar series where once a month we will meet for around 1.5-2 hours  and share different methodologies in machine learning applied to areas in both chemistry and material science. Our goal is for people to present and teach different ML methods and how they can be implement in these different fields.
 
+Everyone will be welcome to participate, both undergraduate students and graduate students. 
+
 If you are interested to participate, please sign up and fill the survey at the following link:  
 [https://forms.gle/aWUMXKfpAmqJk9Xj9](https://forms.gle/aWUMXKfpAmqJk9Xj9)
-
-Everyone will be welcome to participate, both undergraduate students and graduate students, so please forward this email to anyone at UNT that might be interested. We will also be reaching out to the different groups in the coming days. 
 
 The planned format of the seminars is that we will start with around 45-60 minutes of presenting background and theory and sharing articles, followed by around 45-60 minutes of immersive learning where the presenter will teach the audience how to implement the presented ML methods with hands-on tutorials. 
 
