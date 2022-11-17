@@ -20,5 +20,3 @@ As of now we plan on covering the following topics:
 Participants are encouraged to suggest and contribute with topics they are interested in.
 
 We plan on starting the seminar series in the early Spring 2023 semester. In the first seminar, Dr. Omar Valsson will give a presentation on AlphaFold and how to use it in practise. The exact schedule for seminar series will be decided later.
-
-
